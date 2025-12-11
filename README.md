@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzzharshil&label=Profile%20views&color=0e75b6&style=flat" alt="itzzharshil" /> </p>
 
-- 👨‍💻 All of my projects are available at [harshil.xyz](harshil.xyz)
+- All of my projects are available at [harshil.xyz](harshil.xyz)
 
-- 📫 How to reach me **connect@harshil.xyz**
+- How to reach me **connect@harshil.xyz**
 
-- ⚡ Fun fact **I think i am funny**
+- Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
