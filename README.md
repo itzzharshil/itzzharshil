@@ -1,4 +1,3 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzzharshil&label=Profile%20views&color=0e75b6&style=flat" alt="itzzharshil" /> </p>
 
 <h2>A passionate software developer who loves to create meaningful stuff</h2>
