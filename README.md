@@ -4,7 +4,7 @@
 
 - All of my projects are available at [harshil.xyz](harshil.xyz)
 
-- How to reach me **connect@harshil.xyz**
+- How to reach me **hello@harshil.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
