@@ -1,15 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzzharshil&label=Profile%20views&color=0e75b6&style=flat" alt="itzzharshil" /> </p>
+# Harshil Joshi (itzzharshil)
 
-<h2>A passionate software developer who loves to create meaningful stuff</h2>
-
-- All of my projects are available at [harshil.xyz](harshil.xyz)
-
-- How to reach me **hello@harshil.xyz**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itzzharshil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzzharshil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itzzharshil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itzzharshil" height="30" width="40" /></a>
-<a href="https://instagram.com/itzzharshil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzzharshil" height="30" width="40" /></a>
+  <a href="https://harshil.xyz"><b>🌐 Portfolio</b></a> • 
+  <a href="https://linkedin.com/in/itzzharshil"><b>💼 LinkedIn</b></a> • 
+  <a href="https://instagram.com/itz_harshil_09"><b>📸 Instagram</b></a>
 </p>
 
+### 🚀 About Me
+I am a **Full Stack Developer** and **AI/ML Enthusiast**. I focus on building high-performance web applications like **MovieDeck**. 
+
+- 🛠️ **Tech Stack:** React, Node.js, AI/ML, System Design.
+- 🔭 **Current Project:** Scaling [MovieDeck](https://harshil.xyz) for better performance.
+- 📫 **Contact:** hello@harshil.xyz
